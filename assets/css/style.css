@@ -388,7 +388,7 @@ body {
 /*Works*/
 #works {
   height: 100vh;
-  margin-top: 20%;
+  margin-top: 30%;
 }
 
 #works .container {
@@ -401,7 +401,7 @@ body {
 
 @media (max-width: 992px) {
 #works {
-  margin-top: 650px;
+  margin-top: 1250px;
 }
 #works .container {
   top: 15%;
